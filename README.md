@@ -17,6 +17,7 @@ I enjoy building business solutions, integrating **AI (ChatGPT)** with ERP, and 
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-003366?style=for-the-badge&logo=sap&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
