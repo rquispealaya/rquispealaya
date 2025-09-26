@@ -1,66 +1,37 @@
-👋 Hola, soy Ronald Q.
+# Hey 👋, I'm Ronald Quispealaya  
 
-💻 Ingeniero de Sistemas con más de 10 años de experiencia en tecnología, ERP y desarrollo de software. Me especializo en SAP Business One (administración, personalizaciones y Add-Ons) y en integrar soluciones modernas de IA y Datos para optimizar procesos empresariales.
+💻 Systems Engineer with +10 years of experience in **ERP** and **software development**.  
+Specialist in **SAP Business One** (Add-Ons, integrations, automations) and experienced in **Java, C#, Angular, and REST APIs**.  
+I love integrating **AI (ChatGPT)** with business systems and building solutions that turn data into decisions.  
 
-🛠️ Tecnologías y Herramientas
+---
 
-☕ Java (Spring Boot) — APIs y microservicios
+### 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![SAP](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-🟦 C# (.NET) — Add-Ons y servicios para SAP Business One
+---
 
-🗄️ SQL Server / HANA — Consultas, integración y modelos de datos
+### 🌟 Featured Projects
+- 🤖 **ChatGPT + SAP Business One** → Natural language queries converted into reports.  
+- 🧾 **SUNAT e-Invoice validation** → Automatic sync of invoice status in SAP.  
+- 🔄 **Product Catalog API (Spring Boot)** → Real-time availability for sales teams.  
+- 🚚 **Tire Change Management Web App** → Fleet maintenance tracking (Java + Angular).  
 
-📊 Power BI / Excel avanzado — Dashboards e indicadores comerciales
+---
 
-🤖 IA (ChatGPT / OpenAI) — Integración de modelos de lenguaje con ERP
+### 📊 GitHub Stats
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rquispealaya&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rquispealaya&layout=compact&theme=tokyonight)  
 
-🌐 REST APIs / DI API / Service Layer — Integración entre sistemas
+---
 
-
-🌟 Proyectos destacados
-
-🔹 Integración de ChatGPT con SAP Business One
-
-Conversión de lenguaje natural a consultas SQL y ejecución segura para generar reportes y responder consultas en tiempo real desde el Add-On.
-
-🔹 Validación de estatus de facturas electrónicas en SUNAT
-
-Add-On/servicio que consulta el estado de comprobantes electrónicos (aceptada / observada / rechazada) ante SUNAT y actualiza el registro en SAP Business One.
-
-Implementación: servicio en C# integrado con SAP (DI API o Service Layer según la instalación), auditoría de resultados y notificaciones al usuario.
-
-Beneficios: automatización del control fiscal, reducción de errores manuales y trazabilidad completa.
-
-🔹 Automatización de tipo de cambio en SAP Business One
-
-Servicio Windows en C# que consume API externa  y actualiza el tipo de cambio diario automáticamente en SAP BO.
-
-🔹 Dashboards e indicadores comerciales (Power BI)
-
-Extracción de datos desde SAP, transformación y modelado para reportes de ventas, margen y comportamiento por cliente.
-
-🔹 API de catálogo de productos para vendedores
-
-Desarrollo de un microservicio en Java (Spring Boot) que consume el catálogo de productos de un proveedor y lo expone vía API REST para los vendedores.
-
-Beneficios: acceso rápido y actualizado al inventario del proveedor, mejorando la atención al cliente y las ventas.
-
-🔹 Aplicación web de control de cambio de neumáticos
-
-Sistema desarrollado en Java (Spring Boot) con frontend en Angular para gestionar el control de cambio de neumáticos en las unidades de transporte del almacén.
-
-Funcionalidades: registro de cambios, historial de cada unidad, reportes de mantenimiento preventivo.
-
-Beneficios: mayor trazabilidad, reducción de costos de mantenimiento y prolongación de la vida útil de los neumáticos.
-
-🔹 APIs y microservicios en Java
-
-Experiencia general en construcción de servicios REST con Spring Boot, seguridad con JWT, integración con Eureka/Config Server y arquitectura en capas (Controller, Service, Repository).
-
-📈 En qué me enfoco ahora
-
-Integrar ERP + IA para mejorar la experiencia del usuario y automatizar consultas complejas.
-
-Aplicar Data Science y visualización para convertir datos de negocio en decisiones accionables.
-
-Modernizar flujos de trabajo en empresas que usan SAP Business One mediante APIs y microservicios.
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)  
