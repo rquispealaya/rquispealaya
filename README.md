@@ -39,6 +39,24 @@ Servicio Windows en C# que consume API externa  y actualiza el tipo de cambio di
 
 Extracción de datos desde SAP, transformación y modelado para reportes de ventas, margen y comportamiento por cliente.
 
+🔹 API de catálogo de productos para vendedores
+
+Desarrollo de un microservicio en Java (Spring Boot) que consume el catálogo de productos de un proveedor y lo expone vía API REST para los vendedores.
+
+Beneficios: acceso rápido y actualizado al inventario del proveedor, mejorando la atención al cliente y las ventas.
+
+🔹 Aplicación web de control de cambio de neumáticos
+
+Sistema desarrollado en Java (Spring Boot) con frontend en Angular para gestionar el control de cambio de neumáticos en las unidades de transporte del almacén.
+
+Funcionalidades: registro de cambios, historial de cada unidad, reportes de mantenimiento preventivo.
+
+Beneficios: mayor trazabilidad, reducción de costos de mantenimiento y prolongación de la vida útil de los neumáticos.
+
+🔹 APIs y microservicios en Java
+
+Experiencia general en construcción de servicios REST con Spring Boot, seguridad con JWT, integración con Eureka/Config Server y arquitectura en capas (Controller, Service, Repository).
+
 📈 En qué me enfoco ahora
 
 Integrar ERP + IA para mejorar la experiencia del usuario y automatizar consultas complejas.
